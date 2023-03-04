@@ -1,0 +1,8 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Truly-Depressed-Developers/study-notes-client.git
+	branch = master
+[submodule "server"]
+	path = server
+	url = https://github.com/Truly-Depressed-Developers/study-notes-server.git
+	branch = master
