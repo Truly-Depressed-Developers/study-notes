@@ -21,15 +21,10 @@ Study Notes was created at the 4th edition of [SheepYourHack](https://sheepyourh
 ## Tech Stack
 
 ### Client
-<img src="https://img.shields.io/badge/Typescript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=61DAFB"/>
 
 ### Server
-<img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Typescript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge"/>
 
 ## Screenshots
 
